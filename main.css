@@ -1,0 +1,17 @@
+body {
+    background-color: #e3f2fd;
+}
+
+.plusOne {
+    margin-top: -3px;
+    color: #1565c0;
+}
+
+.parallax-container {
+    height: 100px;
+}
+
+.parallaxTop {
+    margin-top: 20px;
+}
+
