@@ -2,6 +2,14 @@ body {
     background-color: #9e9e9e ;
     font-family: 'Lekton', sans-serif;
 }
+nav {
+    background: none;
+    box-shadow: none;
+}
+
+.card-background {
+    background-color: rgba(255, 255, 255, 0.712);;
+}
 
 .plusOne {
     margin-top: -3px;
@@ -12,6 +20,9 @@ body {
     height: 100px;
 }
 
+.about-me {
+    height: 500px;
+}
 .parallaxTop {
     margin-top: 20px;
 }
